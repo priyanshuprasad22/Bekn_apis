@@ -1,0 +1,133 @@
+{
+  "context": {
+    "domain": "dsep:scholarships",
+    "version": "1.0.0",
+    "action": "search",
+    "bap_id": "dsep-protocol.becknprotocol.io",
+    "bap_uri": "https://dsep-protocol-network.becknprotocol.io/",
+    "location": {
+      "city": {
+        "name": "Bangalore",
+        "code": "std:080"
+      },
+      "country": {
+        "name": "India",
+        "code": "IND"
+      }
+    }
+  },
+  "jobs": [
+    {
+      "job_title": "Software Engineer",
+      "work": "Full-time",
+      "application_start_date": "2022-01-01",
+      "application_end_date": "2022-01-31",
+      "expected_salary": 100000
+    },
+    {
+      "job_title": "Marketing Specialist",
+      "work": "Full-time",
+      "application_start_date": "2022-02-01",
+      "application_end_date": "2022-02-28",
+      "expected_salary": 80000
+    },
+    {
+      "job_title": "Accountant",
+      "work": "Full-time",
+      "application_start_date": "2022-03-01",
+      "application_end_date": "2022-03-31",
+      "expected_salary": 90000
+    },
+    {
+      "job_title": "Graphic Designer",
+      "work": "Full-time",
+      "application_start_date": "2022-04-01",
+      "application_end_date": "2022-04-30",
+      "expected_salary": 75000
+    },
+    {
+      "job_title": "Sales Representative",
+      "work": "Full-time",
+      "application_start_date": "2022-05-01",
+      "application_end_date": "2022-05-31",
+      "expected_salary": 85000
+    },
+    {
+      "job_title": "Web Developer",
+      "work": "Full-time",
+      "application_start_date": "2022-06-01",
+      "application_end_date": "2022-06-30",
+      "expected_salary": 95000
+    },
+    {
+      "job_title": "Customer Service Representative",
+      "work": "Full-time",
+      "application_start_date": "2022-07-01",
+      "application_end_date": "2022-07-31",
+      "expected_salary": 70000
+    },
+    {
+      "job_title": "Human Resources Manager",
+      "work": "Full-time",
+      "application_start_date": "2022-08-01",
+      "application_end_date": "2022-08-31",
+      "expected_salary": 110000
+    },
+    {
+      "job_title": "Operations Manager",
+      "work": "Full-time",
+      "application_start_date": "2022-09-01",
+      "application_end_date": "2022-09-30",
+      "expected_salary": 120000
+    },
+    {
+      "job_title": "Data Analyst",
+      "work": "Full-time",
+      "application_start_date": "2022-10-01",
+      "application_end_date": "2022-10-31",
+      "expected_salary": 90000
+    },
+    {
+      "job_title": "Copywriter",
+      "work": "Full-time",
+      "application_start_date": "2022-11-01",
+      "application_end_date": "2022-11-30",
+      "expected_salary": 75000
+    },
+    {
+      "job_title": "Product Manager",
+      "work": "Full-time",
+      "application_start_date": "2022-12-01",
+      "application_end_date": "2022-12-31",
+      "expected_salary": 130000
+    },
+    {
+      "job_title": "UI/UX Designer",
+      "work": "Full-time",
+      "application_start_date": "2023-01-01",
+      "application_end_date": "2023-01-31",
+      "expected_salary": 120000
+    },
+    {
+      "job_title": "Product Manager",
+      "work": "Full-time",
+      "application_start_date": "2022-10-02",
+      "application_end_date": "2022-11-12",
+      "expected_salary": 300000
+    },
+    {
+      "job_title": "System Engineer",
+      "work": "Full-time",
+      "application_start_date": "2022-03-05",
+      "application_end_date": "2022-02-15",
+      "expected_salary": 180000
+    },
+    {
+      "job_title": "Quality Engineer",
+      "work": "Full-time",
+      "application_start_date": "2022-04-07",
+      "application_end_date": "2022-05-07",
+      "expected_salary": 140000
+    }
+  ]
+}
